@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <HelloWorld msg="Welcome to Neighborly" />
+    <h1>Welcome to Neighborly</h1>
   </div>
 </template>
 
@@ -15,3 +15,9 @@
     }
   }
 </script>
+
+<style>
+  .home {
+    background-color: lightblue
+  }
+</style>
