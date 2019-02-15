@@ -1,4 +1,4 @@
-module.exports = {
-  baseUrl: '/neighborly',
-  outputDir: 'docs'
-}
+// module.exports = {
+//   baseUrl: '/neighborly',
+//   outputDir: 'docs'
+// }
