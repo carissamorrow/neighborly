@@ -17,7 +17,7 @@
 </script>
 
 <style>
-  .home {
+  body {
     background-color: lightblue
   }
 </style>
