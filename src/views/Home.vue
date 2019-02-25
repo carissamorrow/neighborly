@@ -1,5 +1,5 @@
 <template>
-  <div class="home container-fluid">
+  <div class="home container-fluid-sm">
     <h1>Welcome to Neighborly</h1>
   </div>
 </template>

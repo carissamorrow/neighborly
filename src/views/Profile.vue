@@ -1,5 +1,5 @@
 <template>
-  <div class="profile">
+  <div class="profile container-fluid-sm">
 
   </div>
 </template>
