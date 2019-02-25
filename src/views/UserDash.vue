@@ -1,5 +1,5 @@
 <template>
-  <div class="userdash container">
+  <div class="userdash container-fluid-sm">
     <h1 class="bottom">Welcome {{user.name}} to your Dashboard</h1>
   </div>
 </template>

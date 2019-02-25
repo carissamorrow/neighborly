@@ -18,6 +18,6 @@
 
 <style>
   body {
-    background-color: lightblue
+    background-color: lightskyblue
   }
 </style>
