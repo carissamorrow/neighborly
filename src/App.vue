@@ -14,7 +14,7 @@
           <li class="nav-item">
             <a class="nav-link" href="#/userDash">UserDash</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item three">
             <a class="nav-link" href="#/login" v-if="!user.id">Login/Register</a>
             <a class="nav-link" @click="logout" href="#/login" v-else>Logout</a>
           </li>
@@ -77,6 +77,7 @@
     -moz-osx-font-smoothing: grayscale;
     text-align: center;
     color: rgb(34, 34, 34);
+    font-weight: bold;
   }
 
   .icon {
@@ -97,5 +98,9 @@
 
   #nav a.router-link-exact-active {
     color: #b80202;
+  }
+
+  .three {
+    margin-left: 300%
   }
 </style>
