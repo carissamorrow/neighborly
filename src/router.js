@@ -5,7 +5,10 @@ import Home from './views/Home.vue'
 // @ts-ignore
 import UserDash from './views/UserDash.vue'
 // @ts-ignore
-import Auth from './views/Auth.vue'
+
+// @ts-ignore
+import Login from './views/Login.vue'
+
 Vue.use(Router)
 
 export default new Router({
@@ -20,12 +23,11 @@ export default new Router({
       name: 'userDash',
       component: UserDash
     },
+
     {
-      path: '/auth',
-      name: 'auth',
-      component: Auth
-
-    },
-
+      path: '/login',
+      name: 'login',
+      component: Login
+    }
   ]
 })
