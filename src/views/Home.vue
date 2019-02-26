@@ -24,8 +24,7 @@
   }
 
   .img1 {
-    position: relative;
-    width: 100vw;
-    height: 80vh
+    position: absolute;
+
   }
 </style>
