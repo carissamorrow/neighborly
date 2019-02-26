@@ -54,4 +54,32 @@
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
   }
+
+  #app {
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: rgb(34, 34, 34);
+  }
+
+  .icon {
+    height: 5vh;
+  }
+
+  .navColor {
+    background-color: #EFEFEF;
+  }
+
+  #nav a {
+    color: #0e0e0e;
+  }
+
+  .headerFont {
+    font-family: Happy Monkey;
+  }
+
+  #nav a.router-link-exact-active {
+    color: #b80202;
+  }
 </style>

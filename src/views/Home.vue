@@ -26,6 +26,5 @@
   .img1 {
     position: relative;
     max-width: 100%;
-
   }
 </style>
