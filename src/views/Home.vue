@@ -24,7 +24,8 @@
   }
 
   .img1 {
-    position: absolute;
+    position: relative;
+    max-width: 100%;
 
   }
 </style>
