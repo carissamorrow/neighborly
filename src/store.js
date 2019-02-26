@@ -45,7 +45,6 @@ export default new Vuex.Store({
       auth.get('authenticate')
         .then(res => {
           commit('setUser', res.data)
-
           // router.push({ name: 'home' })
         })
         .catch(e => {
@@ -56,7 +55,6 @@ export default new Vuex.Store({
       auth.post('login', creds)
         .then(res => {
           commit('setUser', res.data)
-
           router.push({ name: 'home' })
         })
         .catch(e => {
