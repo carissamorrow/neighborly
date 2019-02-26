@@ -1,7 +1,7 @@
 <template>
   <div class="home container-fluid-sm">
     <h1>Welcome to Neighborly</h1>
-    <div class="img1">
+    <div class="img1 mt-5">
       <img src="https://wp.zillowstatic.com/trulia/wp-content/uploads/sites/1/2017/04/Home-Prices-HERO.jpg">
     </div>
   </div>
