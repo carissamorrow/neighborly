@@ -37,7 +37,7 @@
     margin-right: 800px;
   }
 
-  body {
+  .back {
     background-color: lightyellow;
 
   }
