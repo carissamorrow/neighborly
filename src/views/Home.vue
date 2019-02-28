@@ -20,7 +20,8 @@
 
 <style>
   body {
-    background-color: lightgrey;
+    background-color: #e8e8e8;
+    background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-dark.png");
   }
 
   .img1 {
