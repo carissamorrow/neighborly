@@ -35,6 +35,9 @@
 
   .fas {
     margin-right: 800px;
+  }
 
+  body {
+    background-color: lightyellow
   }
 </style>
