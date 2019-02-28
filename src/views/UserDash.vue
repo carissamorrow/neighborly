@@ -38,6 +38,7 @@
   }
 
   body {
-    background-color: lightyellow
+    background-color: lightyellow;
+
   }
 </style>

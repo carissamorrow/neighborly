@@ -18,7 +18,7 @@
   }
 </script>
 
-<style>
+<style scoped>
   body {
     background-color: lightgrey;
   }
