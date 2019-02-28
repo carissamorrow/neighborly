@@ -29,16 +29,12 @@
 
 <style>
   .banana {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
+    color: rgb(26, 105, 158);
   }
 
   .fas {
     margin-right: 800px;
-  }
-
-  .back {
-    background-color: lightyellow;
-
   }
 </style>
