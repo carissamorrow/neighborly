@@ -7,7 +7,6 @@
         <h3>My Items I've Posted</h3>
       </div>
       <div class="col-12 mt-5">
-        <i class="fas fa-toolbox"></i>
         <h3>Items I've Borrowed</h3>
       </div>
     </div>
