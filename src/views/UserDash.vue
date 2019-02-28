@@ -1,11 +1,13 @@
 <template>
   <div class="userdash container-fluid-sm">
+    <i class="fas fa-home fa-7x"></i>
     <h1 class="bottom banana">Welcome to your Dashboard</h1>
     <div class="row">
       <div class="col-12 mt-5">
         <h3>My Items I've Posted</h3>
       </div>
       <div class="col-12 mt-5">
+        <i class="fas fa-toolbox"></i>
         <h3>Items I've Borrowed</h3>
       </div>
     </div>
@@ -30,5 +32,10 @@
   .banana {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bold;
+  }
+
+  .fas {
+    margin-right: 800px;
+
   }
 </style>
