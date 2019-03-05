@@ -1,7 +1,7 @@
 <template>
   <div class="userdash container-fluid-sm">
     <i class="fas fa-home fa-7x"></i>
-    <h1 class="bottom banana">Your Dashboard</h1>
+    <h1 class="bottom banana">Welcome to Your Dashboard</h1>
     <div class="row">
       <div class="col-12 mt-5">
         <h3>My Items I've Posted</h3>
@@ -21,8 +21,12 @@
 
       }
     },
-    computed: {},
-    methods: {}
+    computed: {
+
+    },
+    methods: {
+
+    }
   }
 
 </script>
