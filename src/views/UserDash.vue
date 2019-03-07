@@ -8,8 +8,6 @@
       </div>
       <div class="col-6 mt-5">
         <h3>Items I've Borrowed</h3>
-      </div>
-      <div class="col-12 mt-5">
         <h3>Items Due/Expired</h3>
       </div>
     </div>
